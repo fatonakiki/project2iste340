@@ -1,0 +1,12 @@
+.employment {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.ui.cards>.card {
+    width: auto;
+}

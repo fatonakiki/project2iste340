@@ -1,0 +1,40 @@
+/* styles.css */
+
+.about {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .about h3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .about p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
+  
+  .about p:last-child {
+    margin-bottom: 0;
+  }
+  
+  .about .quote {
+    font-style: italic;
+    color: #777;
+    margin-bottom: 15px;
+  }
+  
+  .about .quoteAuthor {
+    font-size: 14px;
+    color: #888;
+  }
+  
